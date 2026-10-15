@@ -11,7 +11,7 @@ Universiti Teknologi MARA (2026).
 
 ![CCaRA home page](docs/home.jpg)
 
-▶️ **[Watch the 1-minute demo](demo/ccara-demo.mp4)**
+▶️ **[Watch the demo (1.5 min)](demo/ccara-demo.mp4)**
 
 ---
 
