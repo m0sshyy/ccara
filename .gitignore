@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local assessment history (created by the app on first run)
+app/data/
+
+# the dataset is downloaded from Kaggle, not stored here
+*.csv
